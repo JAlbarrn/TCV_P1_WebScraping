@@ -1,193 +1,577 @@
 Dia,Hora,Provincia,Calidad_polen,Planta,Nivel_polen
-01/04/2022,22:48:47,A Coruña,A,Plátano de sombra,A
-01/04/2022,22:48:47,A Coruña,A,Robles y encinas,M
-01/04/2022,22:48:47,A Coruña,A,Ciprés,B
-01/04/2022,22:48:47,A Coruña,A,Gramíneas,B
-01/04/2022,22:48:47,Álava,B,Ciprés,B
-01/04/2022,22:48:47,Álava,B,Gramíneas,B
-01/04/2022,22:48:47,Álava,B,Plátano de sombra,B
-01/04/2022,22:48:47,Álava,B,Robles y encinas,B
-01/04/2022,22:48:47,Albacete,B,Ciprés,B
-01/04/2022,22:48:47,Albacete,B,Gramíneas,B
-01/04/2022,22:48:47,Albacete,B,Plátano de sombra,B
-01/04/2022,22:48:47,Albacete,B,Robles y encinas,B
-01/04/2022,22:48:47,Alicante,B,Ciprés,B
-01/04/2022,22:48:47,Alicante,B,Gramíneas,B
-01/04/2022,22:48:47,Alicante,B,Plátano de sombra,B
-01/04/2022,22:48:47,Alicante,B,Robles y encinas,B
-01/04/2022,22:48:47,Almería,B,Ciprés,B
-01/04/2022,22:48:47,Almería,B,Gramíneas,B
-01/04/2022,22:48:47,Almería,B,Plátano de sombra,B
-01/04/2022,22:48:47,Almería,B,Robles y encinas,B
-01/04/2022,22:48:47,Asturias,B,Ciprés,B
-01/04/2022,22:48:47,Asturias,B,Gramíneas,B
-01/04/2022,22:48:47,Asturias,B,Plátano de sombra,B
-01/04/2022,22:48:47,Asturias,B,Robles y encinas,B
-01/04/2022,22:48:47,Ávila,B,Ciprés,B
-01/04/2022,22:48:47,Ávila,B,Gramíneas,B
-01/04/2022,22:48:47,Ávila,B,Plátano de sombra,B
-01/04/2022,22:48:47,Ávila,B,Robles y encinas,B
-01/04/2022,22:48:47,Badajoz,A,Gramíneas,A
-01/04/2022,22:48:47,Badajoz,A,Plátano de sombra,M
-01/04/2022,22:48:47,Badajoz,A,Robles y encinas,M
-01/04/2022,22:48:47,Badajoz,A,Ciprés,B
-01/04/2022,22:48:47,Baleares,B,Ciprés,B
-01/04/2022,22:48:47,Baleares,B,Gramíneas,B
-01/04/2022,22:48:47,Baleares,B,Plátano de sombra,B
-01/04/2022,22:48:47,Baleares,B,Robles y encinas,B
-01/04/2022,22:48:47,Barcelona,A,Plátano de sombra,A
-01/04/2022,22:48:47,Barcelona,A,Ciprés,B
-01/04/2022,22:48:47,Barcelona,A,Gramíneas,B
-01/04/2022,22:48:47,Barcelona,A,Robles y encinas,B
-01/04/2022,22:48:47,Burgos,B,Ciprés,B
-01/04/2022,22:48:47,Burgos,B,Gramíneas,B
-01/04/2022,22:48:47,Burgos,B,Plátano de sombra,B
-01/04/2022,22:48:47,Burgos,B,Robles y encinas,B
-01/04/2022,22:48:47,Cáceres,M,Robles y encinas,M
-01/04/2022,22:48:47,Cáceres,M,Ciprés,B
-01/04/2022,22:48:47,Cáceres,M,Gramíneas,B
-01/04/2022,22:48:47,Cáceres,M,Plátano de sombra,B
-01/04/2022,22:48:47,Cádiz,B,Ciprés,B
-01/04/2022,22:48:47,Cádiz,B,Gramíneas,B
-01/04/2022,22:48:47,Cádiz,B,Plátano de sombra,B
-01/04/2022,22:48:47,Cádiz,B,Robles y encinas,B
-01/04/2022,22:48:47,Cantabria,B,Ciprés,B
-01/04/2022,22:48:47,Cantabria,B,Gramíneas,B
-01/04/2022,22:48:47,Cantabria,B,Plátano de sombra,B
-01/04/2022,22:48:47,Cantabria,B,Robles y encinas,B
-01/04/2022,22:48:47,Castellón,B,Ciprés,B
-01/04/2022,22:48:47,Castellón,B,Gramíneas,B
-01/04/2022,22:48:47,Castellón,B,Plátano de sombra,B
-01/04/2022,22:48:47,Castellón,B,Robles y encinas,B
-01/04/2022,22:48:47,Ciudad Real,M,Robles y encinas,M
-01/04/2022,22:48:47,Ciudad Real,M,Ciprés,B
-01/04/2022,22:48:47,Ciudad Real,M,Gramíneas,B
-01/04/2022,22:48:47,Ciudad Real,M,Plátano de sombra,B
-01/04/2022,22:48:47,Córdoba,M,Plátano de sombra,M
-01/04/2022,22:48:47,Córdoba,M,Robles y encinas,M
-01/04/2022,22:48:47,Córdoba,M,Ciprés,B
-01/04/2022,22:48:47,Córdoba,M,Gramíneas,B
-01/04/2022,22:48:47,Cuenca,B,Ciprés,B
-01/04/2022,22:48:47,Cuenca,B,Gramíneas,B
-01/04/2022,22:48:47,Cuenca,B,Plátano de sombra,B
-01/04/2022,22:48:47,Cuenca,B,Robles y encinas,B
-01/04/2022,22:48:47,Girona,A,Plátano de sombra,A
-01/04/2022,22:48:47,Girona,A,Ciprés,B
-01/04/2022,22:48:47,Girona,A,Gramíneas,B
-01/04/2022,22:48:47,Girona,A,Robles y encinas,B
-01/04/2022,22:48:47,Granada,B,Ciprés,B
-01/04/2022,22:48:47,Granada,B,Gramíneas,B
-01/04/2022,22:48:47,Granada,B,Plátano de sombra,B
-01/04/2022,22:48:47,Granada,B,Robles y encinas,B
-01/04/2022,22:48:47,Guadalajara,M,Ciprés,M
-01/04/2022,22:48:47,Guadalajara,M,Gramíneas,B
-01/04/2022,22:48:47,Guadalajara,M,Plátano de sombra,B
-01/04/2022,22:48:47,Guadalajara,M,Robles y encinas,B
-01/04/2022,22:48:47,Guipúzcoa,A,Plátano de sombra,A
-01/04/2022,22:48:47,Guipúzcoa,A,Ciprés,B
-01/04/2022,22:48:47,Guipúzcoa,A,Gramíneas,B
-01/04/2022,22:48:47,Guipúzcoa,A,Robles y encinas,B
-01/04/2022,22:48:47,Huelva,B,Ciprés,B
-01/04/2022,22:48:47,Huelva,B,Gramíneas,B
-01/04/2022,22:48:47,Huelva,B,Plátano de sombra,B
-01/04/2022,22:48:47,Huelva,B,Robles y encinas,B
-01/04/2022,22:48:47,Huesca,B,Ciprés,B
-01/04/2022,22:48:47,Huesca,B,Gramíneas,B
-01/04/2022,22:48:47,Huesca,B,Plátano de sombra,B
-01/04/2022,22:48:47,Huesca,B,Robles y encinas,B
-01/04/2022,22:48:47,Jaén,M,Plátano de sombra,M
-01/04/2022,22:48:47,Jaén,M,Ciprés,B
-01/04/2022,22:48:47,Jaén,M,Gramíneas,B
-01/04/2022,22:48:47,Jaén,M,Robles y encinas,B
-01/04/2022,22:48:47,La Rioja,B,Ciprés,B
-01/04/2022,22:48:47,La Rioja,B,Gramíneas,B
-01/04/2022,22:48:47,La Rioja,B,Plátano de sombra,B
-01/04/2022,22:48:47,La Rioja,B,Robles y encinas,B
-01/04/2022,22:48:47,León,B,Ciprés,B
-01/04/2022,22:48:47,León,B,Gramíneas,B
-01/04/2022,22:48:47,León,B,Plátano de sombra,B
-01/04/2022,22:48:47,León,B,Robles y encinas,B
-01/04/2022,22:48:47,Lleida,A,Plátano de sombra,A
-01/04/2022,22:48:47,Lleida,A,Ciprés,B
-01/04/2022,22:48:47,Lleida,A,Gramíneas,B
-01/04/2022,22:48:47,Lleida,A,Robles y encinas,B
-01/04/2022,22:48:47,Lugo,B,Ciprés,B
-01/04/2022,22:48:47,Lugo,B,Gramíneas,B
-01/04/2022,22:48:47,Lugo,B,Plátano de sombra,B
-01/04/2022,22:48:47,Lugo,B,Robles y encinas,B
-01/04/2022,22:48:47,Madrid,A,Plátano de sombra,A
-01/04/2022,22:48:47,Madrid,A,Ciprés,M
-01/04/2022,22:48:47,Madrid,A,Gramíneas,B
-01/04/2022,22:48:47,Madrid,A,Robles y encinas,B
-01/04/2022,22:48:47,Málaga,B,Ciprés,B
-01/04/2022,22:48:47,Málaga,B,Gramíneas,B
-01/04/2022,22:48:47,Málaga,B,Plátano de sombra,B
-01/04/2022,22:48:47,Málaga,B,Robles y encinas,B
-01/04/2022,22:48:47,Murcia,M,Plátano de sombra,M
-01/04/2022,22:48:47,Murcia,M,Ciprés,B
-01/04/2022,22:48:47,Murcia,M,Gramíneas,B
-01/04/2022,22:48:47,Murcia,M,Robles y encinas,B
-01/04/2022,22:48:47,Navarra,B,Ciprés,B
-01/04/2022,22:48:47,Navarra,B,Gramíneas,B
-01/04/2022,22:48:47,Navarra,B,Plátano de sombra,B
-01/04/2022,22:48:47,Navarra,B,Robles y encinas,B
-01/04/2022,22:48:47,Ourense,A,Plátano de sombra,A
-01/04/2022,22:48:47,Ourense,A,Robles y encinas,A
-01/04/2022,22:48:47,Ourense,A,Ciprés,B
-01/04/2022,22:48:47,Ourense,A,Gramíneas,B
-01/04/2022,22:48:47,Palencia,B,Ciprés,B
-01/04/2022,22:48:47,Palencia,B,Gramíneas,B
-01/04/2022,22:48:47,Palencia,B,Plátano de sombra,B
-01/04/2022,22:48:47,Palencia,B,Robles y encinas,B
-01/04/2022,22:48:47,Pontevedra,B,Ciprés,B
-01/04/2022,22:48:47,Pontevedra,B,Gramíneas,B
-01/04/2022,22:48:47,Pontevedra,B,Plátano de sombra,B
-01/04/2022,22:48:47,Pontevedra,B,Robles y encinas,B
-01/04/2022,22:48:47,Salamanca,B,Ciprés,B
-01/04/2022,22:48:47,Salamanca,B,Gramíneas,B
-01/04/2022,22:48:47,Salamanca,B,Plátano de sombra,B
-01/04/2022,22:48:47,Salamanca,B,Robles y encinas,B
-01/04/2022,22:48:47,Segovia,B,Ciprés,B
-01/04/2022,22:48:47,Segovia,B,Gramíneas,B
-01/04/2022,22:48:47,Segovia,B,Plátano de sombra,B
-01/04/2022,22:48:47,Segovia,B,Robles y encinas,B
-01/04/2022,22:48:47,Sevilla,B,Ciprés,B
-01/04/2022,22:48:47,Sevilla,B,Gramíneas,B
-01/04/2022,22:48:47,Sevilla,B,Plátano de sombra,B
-01/04/2022,22:48:47,Sevilla,B,Robles y encinas,B
-01/04/2022,22:48:47,Soria,B,Ciprés,B
-01/04/2022,22:48:47,Soria,B,Gramíneas,B
-01/04/2022,22:48:47,Soria,B,Plátano de sombra,B
-01/04/2022,22:48:47,Soria,B,Robles y encinas,B
-01/04/2022,22:48:47,Tarragona,B,Ciprés,B
-01/04/2022,22:48:47,Tarragona,B,Gramíneas,B
-01/04/2022,22:48:47,Tarragona,B,Plátano de sombra,B
-01/04/2022,22:48:47,Tarragona,B,Robles y encinas,B
-01/04/2022,22:48:47,Teruel,B,Ciprés,B
-01/04/2022,22:48:47,Teruel,B,Gramíneas,B
-01/04/2022,22:48:47,Teruel,B,Plátano de sombra,B
-01/04/2022,22:48:47,Teruel,B,Robles y encinas,B
-01/04/2022,22:48:47,Toledo,M,Plátano de sombra,M
-01/04/2022,22:48:47,Toledo,M,Ciprés,B
-01/04/2022,22:48:47,Toledo,M,Gramíneas,B
-01/04/2022,22:48:47,Toledo,M,Robles y encinas,B
-01/04/2022,22:48:47,Valencia,B,Ciprés,B
-01/04/2022,22:48:47,Valencia,B,Gramíneas,B
-01/04/2022,22:48:47,Valencia,B,Plátano de sombra,B
-01/04/2022,22:48:47,Valencia,B,Robles y encinas,B
-01/04/2022,22:48:47,Valladolid,M,Ciprés,M
-01/04/2022,22:48:47,Valladolid,M,Gramíneas,B
-01/04/2022,22:48:47,Valladolid,M,Plátano de sombra,B
-01/04/2022,22:48:47,Valladolid,M,Robles y encinas,B
-01/04/2022,22:48:47,Vizcaya,M,Ciprés,M
-01/04/2022,22:48:47,Vizcaya,M,Plátano de sombra,M
-01/04/2022,22:48:47,Vizcaya,M,Gramíneas,B
-01/04/2022,22:48:47,Vizcaya,M,Robles y encinas,B
-01/04/2022,22:48:47,Zamora,B,Ciprés,B
-01/04/2022,22:48:47,Zamora,B,Gramíneas,B
-01/04/2022,22:48:47,Zamora,B,Plátano de sombra,B
-01/04/2022,22:48:47,Zamora,B,Robles y encinas,B
-01/04/2022,22:48:47,Zaragoza,A,Plátano de sombra,A
-01/04/2022,22:48:47,Zaragoza,A,Ciprés,B
-01/04/2022,22:48:47,Zaragoza,A,Gramíneas,B
-01/04/2022,22:48:47,Zaragoza,A,Robles y encinas,B
+02/04/2022,17:14:46,A Coruña,A,Plátano de sombra,A
+02/04/2022,17:14:46,A Coruña,A,Robles y encinas,M
+02/04/2022,17:14:46,A Coruña,A,Ciprés,B
+02/04/2022,17:14:46,A Coruña,A,Gramíneas,B
+02/04/2022,17:14:46,Álava,B,Ciprés,B
+02/04/2022,17:14:46,Álava,B,Gramíneas,B
+02/04/2022,17:14:46,Álava,B,Plátano de sombra,B
+02/04/2022,17:14:46,Álava,B,Robles y encinas,B
+02/04/2022,17:14:46,Albacete,B,Ciprés,B
+02/04/2022,17:14:46,Albacete,B,Gramíneas,B
+02/04/2022,17:14:46,Albacete,B,Plátano de sombra,B
+02/04/2022,17:14:46,Albacete,B,Robles y encinas,B
+02/04/2022,17:14:46,Alicante,B,Ciprés,B
+02/04/2022,17:14:46,Alicante,B,Gramíneas,B
+02/04/2022,17:14:46,Alicante,B,Plátano de sombra,B
+02/04/2022,17:14:46,Alicante,B,Robles y encinas,B
+02/04/2022,17:14:46,Almería,B,Ciprés,B
+02/04/2022,17:14:46,Almería,B,Gramíneas,B
+02/04/2022,17:14:46,Almería,B,Plátano de sombra,B
+02/04/2022,17:14:46,Almería,B,Robles y encinas,B
+02/04/2022,17:14:46,Asturias,B,Ciprés,B
+02/04/2022,17:14:46,Asturias,B,Gramíneas,B
+02/04/2022,17:14:46,Asturias,B,Plátano de sombra,B
+02/04/2022,17:14:46,Asturias,B,Robles y encinas,B
+02/04/2022,17:14:46,Ávila,B,Ciprés,B
+02/04/2022,17:14:46,Ávila,B,Gramíneas,B
+02/04/2022,17:14:46,Ávila,B,Plátano de sombra,B
+02/04/2022,17:14:46,Ávila,B,Robles y encinas,B
+02/04/2022,17:14:46,Badajoz,A,Gramíneas,A
+02/04/2022,17:14:46,Badajoz,A,Plátano de sombra,M
+02/04/2022,17:14:46,Badajoz,A,Robles y encinas,M
+02/04/2022,17:14:46,Badajoz,A,Ciprés,B
+02/04/2022,17:14:46,Baleares,B,Ciprés,B
+02/04/2022,17:14:46,Baleares,B,Gramíneas,B
+02/04/2022,17:14:46,Baleares,B,Plátano de sombra,B
+02/04/2022,17:14:46,Baleares,B,Robles y encinas,B
+02/04/2022,17:14:46,Barcelona,A,Plátano de sombra,A
+02/04/2022,17:14:46,Barcelona,A,Ciprés,B
+02/04/2022,17:14:46,Barcelona,A,Gramíneas,B
+02/04/2022,17:14:46,Barcelona,A,Robles y encinas,B
+02/04/2022,17:14:46,Burgos,B,Ciprés,B
+02/04/2022,17:14:46,Burgos,B,Gramíneas,B
+02/04/2022,17:14:46,Burgos,B,Plátano de sombra,B
+02/04/2022,17:14:46,Burgos,B,Robles y encinas,B
+02/04/2022,17:14:46,Cáceres,M,Robles y encinas,M
+02/04/2022,17:14:46,Cáceres,M,Ciprés,B
+02/04/2022,17:14:46,Cáceres,M,Gramíneas,B
+02/04/2022,17:14:46,Cáceres,M,Plátano de sombra,B
+02/04/2022,17:14:46,Cádiz,B,Ciprés,B
+02/04/2022,17:14:46,Cádiz,B,Gramíneas,B
+02/04/2022,17:14:46,Cádiz,B,Plátano de sombra,B
+02/04/2022,17:14:46,Cádiz,B,Robles y encinas,B
+02/04/2022,17:14:46,Cantabria,B,Ciprés,B
+02/04/2022,17:14:46,Cantabria,B,Gramíneas,B
+02/04/2022,17:14:46,Cantabria,B,Plátano de sombra,B
+02/04/2022,17:14:46,Cantabria,B,Robles y encinas,B
+02/04/2022,17:14:46,Castellón,B,Ciprés,B
+02/04/2022,17:14:46,Castellón,B,Gramíneas,B
+02/04/2022,17:14:46,Castellón,B,Plátano de sombra,B
+02/04/2022,17:14:46,Castellón,B,Robles y encinas,B
+02/04/2022,17:14:46,Ciudad Real,M,Robles y encinas,M
+02/04/2022,17:14:46,Ciudad Real,M,Ciprés,B
+02/04/2022,17:14:46,Ciudad Real,M,Gramíneas,B
+02/04/2022,17:14:46,Ciudad Real,M,Plátano de sombra,B
+02/04/2022,17:14:46,Córdoba,M,Plátano de sombra,M
+02/04/2022,17:14:46,Córdoba,M,Robles y encinas,M
+02/04/2022,17:14:46,Córdoba,M,Ciprés,B
+02/04/2022,17:14:46,Córdoba,M,Gramíneas,B
+02/04/2022,17:14:46,Cuenca,B,Ciprés,B
+02/04/2022,17:14:46,Cuenca,B,Gramíneas,B
+02/04/2022,17:14:46,Cuenca,B,Plátano de sombra,B
+02/04/2022,17:14:46,Cuenca,B,Robles y encinas,B
+02/04/2022,17:14:46,Girona,A,Plátano de sombra,A
+02/04/2022,17:14:46,Girona,A,Ciprés,B
+02/04/2022,17:14:46,Girona,A,Gramíneas,B
+02/04/2022,17:14:46,Girona,A,Robles y encinas,B
+02/04/2022,17:14:46,Granada,B,Ciprés,B
+02/04/2022,17:14:46,Granada,B,Gramíneas,B
+02/04/2022,17:14:46,Granada,B,Plátano de sombra,B
+02/04/2022,17:14:46,Granada,B,Robles y encinas,B
+02/04/2022,17:14:46,Guadalajara,M,Ciprés,M
+02/04/2022,17:14:46,Guadalajara,M,Gramíneas,B
+02/04/2022,17:14:46,Guadalajara,M,Plátano de sombra,B
+02/04/2022,17:14:46,Guadalajara,M,Robles y encinas,B
+02/04/2022,17:14:46,Guipúzcoa,A,Plátano de sombra,A
+02/04/2022,17:14:46,Guipúzcoa,A,Ciprés,B
+02/04/2022,17:14:46,Guipúzcoa,A,Gramíneas,B
+02/04/2022,17:14:46,Guipúzcoa,A,Robles y encinas,B
+02/04/2022,17:14:46,Huelva,B,Ciprés,B
+02/04/2022,17:14:46,Huelva,B,Gramíneas,B
+02/04/2022,17:14:46,Huelva,B,Plátano de sombra,B
+02/04/2022,17:14:46,Huelva,B,Robles y encinas,B
+02/04/2022,17:14:46,Huesca,B,Ciprés,B
+02/04/2022,17:14:46,Huesca,B,Gramíneas,B
+02/04/2022,17:14:46,Huesca,B,Plátano de sombra,B
+02/04/2022,17:14:46,Huesca,B,Robles y encinas,B
+02/04/2022,17:14:46,Jaén,M,Plátano de sombra,M
+02/04/2022,17:14:46,Jaén,M,Ciprés,B
+02/04/2022,17:14:46,Jaén,M,Gramíneas,B
+02/04/2022,17:14:46,Jaén,M,Robles y encinas,B
+02/04/2022,17:14:46,La Rioja,B,Ciprés,B
+02/04/2022,17:14:46,La Rioja,B,Gramíneas,B
+02/04/2022,17:14:46,La Rioja,B,Plátano de sombra,B
+02/04/2022,17:14:46,La Rioja,B,Robles y encinas,B
+02/04/2022,17:14:46,León,B,Ciprés,B
+02/04/2022,17:14:46,León,B,Gramíneas,B
+02/04/2022,17:14:46,León,B,Plátano de sombra,B
+02/04/2022,17:14:46,León,B,Robles y encinas,B
+02/04/2022,17:14:46,Lleida,A,Plátano de sombra,A
+02/04/2022,17:14:46,Lleida,A,Ciprés,B
+02/04/2022,17:14:46,Lleida,A,Gramíneas,B
+02/04/2022,17:14:46,Lleida,A,Robles y encinas,B
+02/04/2022,17:14:46,Lugo,B,Ciprés,B
+02/04/2022,17:14:46,Lugo,B,Gramíneas,B
+02/04/2022,17:14:46,Lugo,B,Plátano de sombra,B
+02/04/2022,17:14:46,Lugo,B,Robles y encinas,B
+02/04/2022,17:14:46,Madrid,A,Plátano de sombra,A
+02/04/2022,17:14:46,Madrid,A,Ciprés,M
+02/04/2022,17:14:46,Madrid,A,Gramíneas,B
+02/04/2022,17:14:46,Madrid,A,Robles y encinas,B
+02/04/2022,17:14:46,Málaga,B,Ciprés,B
+02/04/2022,17:14:46,Málaga,B,Gramíneas,B
+02/04/2022,17:14:46,Málaga,B,Plátano de sombra,B
+02/04/2022,17:14:46,Málaga,B,Robles y encinas,B
+02/04/2022,17:14:46,Murcia,M,Plátano de sombra,M
+02/04/2022,17:14:46,Murcia,M,Ciprés,B
+02/04/2022,17:14:46,Murcia,M,Gramíneas,B
+02/04/2022,17:14:46,Murcia,M,Robles y encinas,B
+02/04/2022,17:14:46,Navarra,B,Ciprés,B
+02/04/2022,17:14:46,Navarra,B,Gramíneas,B
+02/04/2022,17:14:46,Navarra,B,Plátano de sombra,B
+02/04/2022,17:14:46,Navarra,B,Robles y encinas,B
+02/04/2022,17:14:46,Ourense,A,Plátano de sombra,A
+02/04/2022,17:14:46,Ourense,A,Robles y encinas,A
+02/04/2022,17:14:46,Ourense,A,Ciprés,B
+02/04/2022,17:14:46,Ourense,A,Gramíneas,B
+02/04/2022,17:14:46,Palencia,B,Ciprés,B
+02/04/2022,17:14:46,Palencia,B,Gramíneas,B
+02/04/2022,17:14:46,Palencia,B,Plátano de sombra,B
+02/04/2022,17:14:46,Palencia,B,Robles y encinas,B
+02/04/2022,17:14:46,Pontevedra,B,Ciprés,B
+02/04/2022,17:14:46,Pontevedra,B,Gramíneas,B
+02/04/2022,17:14:46,Pontevedra,B,Plátano de sombra,B
+02/04/2022,17:14:46,Pontevedra,B,Robles y encinas,B
+02/04/2022,17:14:46,Salamanca,B,Ciprés,B
+02/04/2022,17:14:46,Salamanca,B,Gramíneas,B
+02/04/2022,17:14:46,Salamanca,B,Plátano de sombra,B
+02/04/2022,17:14:46,Salamanca,B,Robles y encinas,B
+02/04/2022,17:14:46,Segovia,B,Ciprés,B
+02/04/2022,17:14:46,Segovia,B,Gramíneas,B
+02/04/2022,17:14:46,Segovia,B,Plátano de sombra,B
+02/04/2022,17:14:46,Segovia,B,Robles y encinas,B
+02/04/2022,17:14:46,Sevilla,B,Ciprés,B
+02/04/2022,17:14:46,Sevilla,B,Gramíneas,B
+02/04/2022,17:14:46,Sevilla,B,Plátano de sombra,B
+02/04/2022,17:14:46,Sevilla,B,Robles y encinas,B
+02/04/2022,17:14:46,Soria,B,Ciprés,B
+02/04/2022,17:14:46,Soria,B,Gramíneas,B
+02/04/2022,17:14:46,Soria,B,Plátano de sombra,B
+02/04/2022,17:14:46,Soria,B,Robles y encinas,B
+02/04/2022,17:14:46,Tarragona,B,Ciprés,B
+02/04/2022,17:14:46,Tarragona,B,Gramíneas,B
+02/04/2022,17:14:46,Tarragona,B,Plátano de sombra,B
+02/04/2022,17:14:46,Tarragona,B,Robles y encinas,B
+02/04/2022,17:14:46,Teruel,B,Ciprés,B
+02/04/2022,17:14:46,Teruel,B,Gramíneas,B
+02/04/2022,17:14:46,Teruel,B,Plátano de sombra,B
+02/04/2022,17:14:46,Teruel,B,Robles y encinas,B
+02/04/2022,17:14:46,Toledo,M,Plátano de sombra,M
+02/04/2022,17:14:46,Toledo,M,Ciprés,B
+02/04/2022,17:14:46,Toledo,M,Gramíneas,B
+02/04/2022,17:14:46,Toledo,M,Robles y encinas,B
+02/04/2022,17:14:46,Valencia,B,Ciprés,B
+02/04/2022,17:14:46,Valencia,B,Gramíneas,B
+02/04/2022,17:14:46,Valencia,B,Plátano de sombra,B
+02/04/2022,17:14:46,Valencia,B,Robles y encinas,B
+02/04/2022,17:14:46,Valladolid,M,Ciprés,M
+02/04/2022,17:14:46,Valladolid,M,Gramíneas,B
+02/04/2022,17:14:46,Valladolid,M,Plátano de sombra,B
+02/04/2022,17:14:46,Valladolid,M,Robles y encinas,B
+02/04/2022,17:14:46,Vizcaya,M,Ciprés,M
+02/04/2022,17:14:46,Vizcaya,M,Plátano de sombra,M
+02/04/2022,17:14:46,Vizcaya,M,Gramíneas,B
+02/04/2022,17:14:46,Vizcaya,M,Robles y encinas,B
+02/04/2022,17:14:46,Zamora,B,Ciprés,B
+02/04/2022,17:14:46,Zamora,B,Gramíneas,B
+02/04/2022,17:14:46,Zamora,B,Plátano de sombra,B
+02/04/2022,17:14:46,Zamora,B,Robles y encinas,B
+02/04/2022,17:14:46,Zaragoza,A,Plátano de sombra,A
+02/04/2022,17:14:46,Zaragoza,A,Ciprés,B
+02/04/2022,17:14:46,Zaragoza,A,Gramíneas,B
+02/04/2022,17:14:46,Zaragoza,A,Robles y encinas,B
+02/04/2022,17:15:27,A Coruña,A,Plátano de sombra,A
+02/04/2022,17:15:27,A Coruña,A,Robles y encinas,M
+02/04/2022,17:15:27,A Coruña,A,Ciprés,B
+02/04/2022,17:15:27,A Coruña,A,Gramíneas,B
+02/04/2022,17:15:27,Álava,B,Ciprés,B
+02/04/2022,17:15:27,Álava,B,Gramíneas,B
+02/04/2022,17:15:27,Álava,B,Plátano de sombra,B
+02/04/2022,17:15:27,Álava,B,Robles y encinas,B
+02/04/2022,17:15:27,Albacete,B,Ciprés,B
+02/04/2022,17:15:27,Albacete,B,Gramíneas,B
+02/04/2022,17:15:27,Albacete,B,Plátano de sombra,B
+02/04/2022,17:15:27,Albacete,B,Robles y encinas,B
+02/04/2022,17:15:27,Alicante,B,Ciprés,B
+02/04/2022,17:15:27,Alicante,B,Gramíneas,B
+02/04/2022,17:15:27,Alicante,B,Plátano de sombra,B
+02/04/2022,17:15:27,Alicante,B,Robles y encinas,B
+02/04/2022,17:15:27,Almería,B,Ciprés,B
+02/04/2022,17:15:27,Almería,B,Gramíneas,B
+02/04/2022,17:15:27,Almería,B,Plátano de sombra,B
+02/04/2022,17:15:27,Almería,B,Robles y encinas,B
+02/04/2022,17:15:27,Asturias,B,Ciprés,B
+02/04/2022,17:15:27,Asturias,B,Gramíneas,B
+02/04/2022,17:15:27,Asturias,B,Plátano de sombra,B
+02/04/2022,17:15:27,Asturias,B,Robles y encinas,B
+02/04/2022,17:15:27,Ávila,B,Ciprés,B
+02/04/2022,17:15:27,Ávila,B,Gramíneas,B
+02/04/2022,17:15:27,Ávila,B,Plátano de sombra,B
+02/04/2022,17:15:27,Ávila,B,Robles y encinas,B
+02/04/2022,17:15:27,Badajoz,A,Gramíneas,A
+02/04/2022,17:15:27,Badajoz,A,Plátano de sombra,M
+02/04/2022,17:15:27,Badajoz,A,Robles y encinas,M
+02/04/2022,17:15:27,Badajoz,A,Ciprés,B
+02/04/2022,17:15:27,Baleares,B,Ciprés,B
+02/04/2022,17:15:27,Baleares,B,Gramíneas,B
+02/04/2022,17:15:27,Baleares,B,Plátano de sombra,B
+02/04/2022,17:15:27,Baleares,B,Robles y encinas,B
+02/04/2022,17:15:27,Barcelona,A,Plátano de sombra,A
+02/04/2022,17:15:27,Barcelona,A,Ciprés,B
+02/04/2022,17:15:27,Barcelona,A,Gramíneas,B
+02/04/2022,17:15:27,Barcelona,A,Robles y encinas,B
+02/04/2022,17:15:27,Burgos,B,Ciprés,B
+02/04/2022,17:15:27,Burgos,B,Gramíneas,B
+02/04/2022,17:15:27,Burgos,B,Plátano de sombra,B
+02/04/2022,17:15:27,Burgos,B,Robles y encinas,B
+02/04/2022,17:15:27,Cáceres,M,Robles y encinas,M
+02/04/2022,17:15:27,Cáceres,M,Ciprés,B
+02/04/2022,17:15:27,Cáceres,M,Gramíneas,B
+02/04/2022,17:15:27,Cáceres,M,Plátano de sombra,B
+02/04/2022,17:15:27,Cádiz,B,Ciprés,B
+02/04/2022,17:15:27,Cádiz,B,Gramíneas,B
+02/04/2022,17:15:27,Cádiz,B,Plátano de sombra,B
+02/04/2022,17:15:27,Cádiz,B,Robles y encinas,B
+02/04/2022,17:15:27,Cantabria,B,Ciprés,B
+02/04/2022,17:15:27,Cantabria,B,Gramíneas,B
+02/04/2022,17:15:27,Cantabria,B,Plátano de sombra,B
+02/04/2022,17:15:27,Cantabria,B,Robles y encinas,B
+02/04/2022,17:15:27,Castellón,B,Ciprés,B
+02/04/2022,17:15:27,Castellón,B,Gramíneas,B
+02/04/2022,17:15:27,Castellón,B,Plátano de sombra,B
+02/04/2022,17:15:27,Castellón,B,Robles y encinas,B
+02/04/2022,17:15:27,Ciudad Real,M,Robles y encinas,M
+02/04/2022,17:15:27,Ciudad Real,M,Ciprés,B
+02/04/2022,17:15:27,Ciudad Real,M,Gramíneas,B
+02/04/2022,17:15:27,Ciudad Real,M,Plátano de sombra,B
+02/04/2022,17:15:27,Córdoba,M,Plátano de sombra,M
+02/04/2022,17:15:27,Córdoba,M,Robles y encinas,M
+02/04/2022,17:15:27,Córdoba,M,Ciprés,B
+02/04/2022,17:15:27,Córdoba,M,Gramíneas,B
+02/04/2022,17:15:27,Cuenca,B,Ciprés,B
+02/04/2022,17:15:27,Cuenca,B,Gramíneas,B
+02/04/2022,17:15:27,Cuenca,B,Plátano de sombra,B
+02/04/2022,17:15:27,Cuenca,B,Robles y encinas,B
+02/04/2022,17:15:27,Girona,A,Plátano de sombra,A
+02/04/2022,17:15:27,Girona,A,Ciprés,B
+02/04/2022,17:15:27,Girona,A,Gramíneas,B
+02/04/2022,17:15:27,Girona,A,Robles y encinas,B
+02/04/2022,17:15:27,Granada,B,Ciprés,B
+02/04/2022,17:15:27,Granada,B,Gramíneas,B
+02/04/2022,17:15:27,Granada,B,Plátano de sombra,B
+02/04/2022,17:15:27,Granada,B,Robles y encinas,B
+02/04/2022,17:15:27,Guadalajara,M,Ciprés,M
+02/04/2022,17:15:27,Guadalajara,M,Gramíneas,B
+02/04/2022,17:15:27,Guadalajara,M,Plátano de sombra,B
+02/04/2022,17:15:27,Guadalajara,M,Robles y encinas,B
+02/04/2022,17:15:27,Guipúzcoa,A,Plátano de sombra,A
+02/04/2022,17:15:27,Guipúzcoa,A,Ciprés,B
+02/04/2022,17:15:27,Guipúzcoa,A,Gramíneas,B
+02/04/2022,17:15:27,Guipúzcoa,A,Robles y encinas,B
+02/04/2022,17:15:27,Huelva,B,Ciprés,B
+02/04/2022,17:15:27,Huelva,B,Gramíneas,B
+02/04/2022,17:15:27,Huelva,B,Plátano de sombra,B
+02/04/2022,17:15:27,Huelva,B,Robles y encinas,B
+02/04/2022,17:15:27,Huesca,B,Ciprés,B
+02/04/2022,17:15:27,Huesca,B,Gramíneas,B
+02/04/2022,17:15:27,Huesca,B,Plátano de sombra,B
+02/04/2022,17:15:27,Huesca,B,Robles y encinas,B
+02/04/2022,17:15:27,Jaén,M,Plátano de sombra,M
+02/04/2022,17:15:27,Jaén,M,Ciprés,B
+02/04/2022,17:15:27,Jaén,M,Gramíneas,B
+02/04/2022,17:15:27,Jaén,M,Robles y encinas,B
+02/04/2022,17:15:27,La Rioja,B,Ciprés,B
+02/04/2022,17:15:27,La Rioja,B,Gramíneas,B
+02/04/2022,17:15:27,La Rioja,B,Plátano de sombra,B
+02/04/2022,17:15:27,La Rioja,B,Robles y encinas,B
+02/04/2022,17:15:27,León,B,Ciprés,B
+02/04/2022,17:15:27,León,B,Gramíneas,B
+02/04/2022,17:15:27,León,B,Plátano de sombra,B
+02/04/2022,17:15:27,León,B,Robles y encinas,B
+02/04/2022,17:15:27,Lleida,A,Plátano de sombra,A
+02/04/2022,17:15:27,Lleida,A,Ciprés,B
+02/04/2022,17:15:27,Lleida,A,Gramíneas,B
+02/04/2022,17:15:27,Lleida,A,Robles y encinas,B
+02/04/2022,17:15:27,Lugo,B,Ciprés,B
+02/04/2022,17:15:27,Lugo,B,Gramíneas,B
+02/04/2022,17:15:27,Lugo,B,Plátano de sombra,B
+02/04/2022,17:15:27,Lugo,B,Robles y encinas,B
+02/04/2022,17:15:27,Madrid,A,Plátano de sombra,A
+02/04/2022,17:15:27,Madrid,A,Ciprés,M
+02/04/2022,17:15:27,Madrid,A,Gramíneas,B
+02/04/2022,17:15:27,Madrid,A,Robles y encinas,B
+02/04/2022,17:15:27,Málaga,B,Ciprés,B
+02/04/2022,17:15:27,Málaga,B,Gramíneas,B
+02/04/2022,17:15:27,Málaga,B,Plátano de sombra,B
+02/04/2022,17:15:27,Málaga,B,Robles y encinas,B
+02/04/2022,17:15:27,Murcia,M,Plátano de sombra,M
+02/04/2022,17:15:27,Murcia,M,Ciprés,B
+02/04/2022,17:15:27,Murcia,M,Gramíneas,B
+02/04/2022,17:15:27,Murcia,M,Robles y encinas,B
+02/04/2022,17:15:27,Navarra,B,Ciprés,B
+02/04/2022,17:15:27,Navarra,B,Gramíneas,B
+02/04/2022,17:15:27,Navarra,B,Plátano de sombra,B
+02/04/2022,17:15:27,Navarra,B,Robles y encinas,B
+02/04/2022,17:15:27,Ourense,A,Plátano de sombra,A
+02/04/2022,17:15:27,Ourense,A,Robles y encinas,A
+02/04/2022,17:15:27,Ourense,A,Ciprés,B
+02/04/2022,17:15:27,Ourense,A,Gramíneas,B
+02/04/2022,17:15:27,Palencia,B,Ciprés,B
+02/04/2022,17:15:27,Palencia,B,Gramíneas,B
+02/04/2022,17:15:27,Palencia,B,Plátano de sombra,B
+02/04/2022,17:15:27,Palencia,B,Robles y encinas,B
+02/04/2022,17:15:27,Pontevedra,B,Ciprés,B
+02/04/2022,17:15:27,Pontevedra,B,Gramíneas,B
+02/04/2022,17:15:27,Pontevedra,B,Plátano de sombra,B
+02/04/2022,17:15:27,Pontevedra,B,Robles y encinas,B
+02/04/2022,17:15:27,Salamanca,B,Ciprés,B
+02/04/2022,17:15:27,Salamanca,B,Gramíneas,B
+02/04/2022,17:15:27,Salamanca,B,Plátano de sombra,B
+02/04/2022,17:15:27,Salamanca,B,Robles y encinas,B
+02/04/2022,17:15:27,Segovia,B,Ciprés,B
+02/04/2022,17:15:27,Segovia,B,Gramíneas,B
+02/04/2022,17:15:27,Segovia,B,Plátano de sombra,B
+02/04/2022,17:15:27,Segovia,B,Robles y encinas,B
+02/04/2022,17:15:27,Sevilla,B,Ciprés,B
+02/04/2022,17:15:27,Sevilla,B,Gramíneas,B
+02/04/2022,17:15:27,Sevilla,B,Plátano de sombra,B
+02/04/2022,17:15:27,Sevilla,B,Robles y encinas,B
+02/04/2022,17:15:27,Soria,B,Ciprés,B
+02/04/2022,17:15:27,Soria,B,Gramíneas,B
+02/04/2022,17:15:27,Soria,B,Plátano de sombra,B
+02/04/2022,17:15:27,Soria,B,Robles y encinas,B
+02/04/2022,17:15:27,Tarragona,B,Ciprés,B
+02/04/2022,17:15:27,Tarragona,B,Gramíneas,B
+02/04/2022,17:15:27,Tarragona,B,Plátano de sombra,B
+02/04/2022,17:15:27,Tarragona,B,Robles y encinas,B
+02/04/2022,17:15:27,Teruel,B,Ciprés,B
+02/04/2022,17:15:27,Teruel,B,Gramíneas,B
+02/04/2022,17:15:27,Teruel,B,Plátano de sombra,B
+02/04/2022,17:15:27,Teruel,B,Robles y encinas,B
+02/04/2022,17:15:27,Toledo,M,Plátano de sombra,M
+02/04/2022,17:15:27,Toledo,M,Ciprés,B
+02/04/2022,17:15:27,Toledo,M,Gramíneas,B
+02/04/2022,17:15:27,Toledo,M,Robles y encinas,B
+02/04/2022,17:15:27,Valencia,B,Ciprés,B
+02/04/2022,17:15:27,Valencia,B,Gramíneas,B
+02/04/2022,17:15:27,Valencia,B,Plátano de sombra,B
+02/04/2022,17:15:27,Valencia,B,Robles y encinas,B
+02/04/2022,17:15:27,Valladolid,M,Ciprés,M
+02/04/2022,17:15:27,Valladolid,M,Gramíneas,B
+02/04/2022,17:15:27,Valladolid,M,Plátano de sombra,B
+02/04/2022,17:15:27,Valladolid,M,Robles y encinas,B
+02/04/2022,17:15:27,Vizcaya,M,Ciprés,M
+02/04/2022,17:15:27,Vizcaya,M,Plátano de sombra,M
+02/04/2022,17:15:27,Vizcaya,M,Gramíneas,B
+02/04/2022,17:15:27,Vizcaya,M,Robles y encinas,B
+02/04/2022,17:15:27,Zamora,B,Ciprés,B
+02/04/2022,17:15:27,Zamora,B,Gramíneas,B
+02/04/2022,17:15:27,Zamora,B,Plátano de sombra,B
+02/04/2022,17:15:27,Zamora,B,Robles y encinas,B
+02/04/2022,17:15:27,Zaragoza,A,Plátano de sombra,A
+02/04/2022,17:15:27,Zaragoza,A,Ciprés,B
+02/04/2022,17:15:27,Zaragoza,A,Gramíneas,B
+02/04/2022,17:15:27,Zaragoza,A,Robles y encinas,B
+02/04/2022,17:17:35,A Coruña,A,Plátano de sombra,A
+02/04/2022,17:17:35,A Coruña,A,Robles y encinas,M
+02/04/2022,17:17:35,A Coruña,A,Ciprés,B
+02/04/2022,17:17:35,A Coruña,A,Gramíneas,B
+02/04/2022,17:17:35,Álava,B,Ciprés,B
+02/04/2022,17:17:35,Álava,B,Gramíneas,B
+02/04/2022,17:17:35,Álava,B,Plátano de sombra,B
+02/04/2022,17:17:35,Álava,B,Robles y encinas,B
+02/04/2022,17:17:35,Albacete,B,Ciprés,B
+02/04/2022,17:17:35,Albacete,B,Gramíneas,B
+02/04/2022,17:17:35,Albacete,B,Plátano de sombra,B
+02/04/2022,17:17:35,Albacete,B,Robles y encinas,B
+02/04/2022,17:17:35,Alicante,B,Ciprés,B
+02/04/2022,17:17:35,Alicante,B,Gramíneas,B
+02/04/2022,17:17:35,Alicante,B,Plátano de sombra,B
+02/04/2022,17:17:35,Alicante,B,Robles y encinas,B
+02/04/2022,17:17:35,Almería,B,Ciprés,B
+02/04/2022,17:17:35,Almería,B,Gramíneas,B
+02/04/2022,17:17:35,Almería,B,Plátano de sombra,B
+02/04/2022,17:17:35,Almería,B,Robles y encinas,B
+02/04/2022,17:17:35,Asturias,B,Ciprés,B
+02/04/2022,17:17:35,Asturias,B,Gramíneas,B
+02/04/2022,17:17:35,Asturias,B,Plátano de sombra,B
+02/04/2022,17:17:35,Asturias,B,Robles y encinas,B
+02/04/2022,17:17:35,Ávila,B,Ciprés,B
+02/04/2022,17:17:35,Ávila,B,Gramíneas,B
+02/04/2022,17:17:35,Ávila,B,Plátano de sombra,B
+02/04/2022,17:17:35,Ávila,B,Robles y encinas,B
+02/04/2022,17:17:35,Badajoz,A,Gramíneas,A
+02/04/2022,17:17:35,Badajoz,A,Plátano de sombra,M
+02/04/2022,17:17:35,Badajoz,A,Robles y encinas,M
+02/04/2022,17:17:35,Badajoz,A,Ciprés,B
+02/04/2022,17:17:35,Baleares,B,Ciprés,B
+02/04/2022,17:17:35,Baleares,B,Gramíneas,B
+02/04/2022,17:17:35,Baleares,B,Plátano de sombra,B
+02/04/2022,17:17:35,Baleares,B,Robles y encinas,B
+02/04/2022,17:17:35,Barcelona,A,Plátano de sombra,A
+02/04/2022,17:17:35,Barcelona,A,Ciprés,B
+02/04/2022,17:17:35,Barcelona,A,Gramíneas,B
+02/04/2022,17:17:35,Barcelona,A,Robles y encinas,B
+02/04/2022,17:17:35,Burgos,B,Ciprés,B
+02/04/2022,17:17:35,Burgos,B,Gramíneas,B
+02/04/2022,17:17:35,Burgos,B,Plátano de sombra,B
+02/04/2022,17:17:35,Burgos,B,Robles y encinas,B
+02/04/2022,17:17:35,Cáceres,M,Robles y encinas,M
+02/04/2022,17:17:35,Cáceres,M,Ciprés,B
+02/04/2022,17:17:35,Cáceres,M,Gramíneas,B
+02/04/2022,17:17:35,Cáceres,M,Plátano de sombra,B
+02/04/2022,17:17:35,Cádiz,B,Ciprés,B
+02/04/2022,17:17:35,Cádiz,B,Gramíneas,B
+02/04/2022,17:17:35,Cádiz,B,Plátano de sombra,B
+02/04/2022,17:17:35,Cádiz,B,Robles y encinas,B
+02/04/2022,17:17:35,Cantabria,B,Ciprés,B
+02/04/2022,17:17:35,Cantabria,B,Gramíneas,B
+02/04/2022,17:17:35,Cantabria,B,Plátano de sombra,B
+02/04/2022,17:17:35,Cantabria,B,Robles y encinas,B
+02/04/2022,17:17:35,Castellón,B,Ciprés,B
+02/04/2022,17:17:35,Castellón,B,Gramíneas,B
+02/04/2022,17:17:35,Castellón,B,Plátano de sombra,B
+02/04/2022,17:17:35,Castellón,B,Robles y encinas,B
+02/04/2022,17:17:35,Ciudad Real,M,Robles y encinas,M
+02/04/2022,17:17:35,Ciudad Real,M,Ciprés,B
+02/04/2022,17:17:35,Ciudad Real,M,Gramíneas,B
+02/04/2022,17:17:35,Ciudad Real,M,Plátano de sombra,B
+02/04/2022,17:17:35,Córdoba,M,Plátano de sombra,M
+02/04/2022,17:17:35,Córdoba,M,Robles y encinas,M
+02/04/2022,17:17:35,Córdoba,M,Ciprés,B
+02/04/2022,17:17:35,Córdoba,M,Gramíneas,B
+02/04/2022,17:17:35,Cuenca,B,Ciprés,B
+02/04/2022,17:17:35,Cuenca,B,Gramíneas,B
+02/04/2022,17:17:35,Cuenca,B,Plátano de sombra,B
+02/04/2022,17:17:35,Cuenca,B,Robles y encinas,B
+02/04/2022,17:17:35,Girona,A,Plátano de sombra,A
+02/04/2022,17:17:35,Girona,A,Ciprés,B
+02/04/2022,17:17:35,Girona,A,Gramíneas,B
+02/04/2022,17:17:35,Girona,A,Robles y encinas,B
+02/04/2022,17:17:35,Granada,B,Ciprés,B
+02/04/2022,17:17:35,Granada,B,Gramíneas,B
+02/04/2022,17:17:35,Granada,B,Plátano de sombra,B
+02/04/2022,17:17:35,Granada,B,Robles y encinas,B
+02/04/2022,17:17:35,Guadalajara,M,Ciprés,M
+02/04/2022,17:17:35,Guadalajara,M,Gramíneas,B
+02/04/2022,17:17:35,Guadalajara,M,Plátano de sombra,B
+02/04/2022,17:17:35,Guadalajara,M,Robles y encinas,B
+02/04/2022,17:17:35,Guipúzcoa,A,Plátano de sombra,A
+02/04/2022,17:17:35,Guipúzcoa,A,Ciprés,B
+02/04/2022,17:17:35,Guipúzcoa,A,Gramíneas,B
+02/04/2022,17:17:35,Guipúzcoa,A,Robles y encinas,B
+02/04/2022,17:17:35,Huelva,B,Ciprés,B
+02/04/2022,17:17:35,Huelva,B,Gramíneas,B
+02/04/2022,17:17:35,Huelva,B,Plátano de sombra,B
+02/04/2022,17:17:35,Huelva,B,Robles y encinas,B
+02/04/2022,17:17:35,Huesca,B,Ciprés,B
+02/04/2022,17:17:35,Huesca,B,Gramíneas,B
+02/04/2022,17:17:35,Huesca,B,Plátano de sombra,B
+02/04/2022,17:17:35,Huesca,B,Robles y encinas,B
+02/04/2022,17:17:35,Jaén,M,Plátano de sombra,M
+02/04/2022,17:17:35,Jaén,M,Ciprés,B
+02/04/2022,17:17:35,Jaén,M,Gramíneas,B
+02/04/2022,17:17:35,Jaén,M,Robles y encinas,B
+02/04/2022,17:17:35,La Rioja,B,Ciprés,B
+02/04/2022,17:17:35,La Rioja,B,Gramíneas,B
+02/04/2022,17:17:35,La Rioja,B,Plátano de sombra,B
+02/04/2022,17:17:35,La Rioja,B,Robles y encinas,B
+02/04/2022,17:17:35,León,B,Ciprés,B
+02/04/2022,17:17:35,León,B,Gramíneas,B
+02/04/2022,17:17:35,León,B,Plátano de sombra,B
+02/04/2022,17:17:35,León,B,Robles y encinas,B
+02/04/2022,17:17:35,Lleida,A,Plátano de sombra,A
+02/04/2022,17:17:35,Lleida,A,Ciprés,B
+02/04/2022,17:17:35,Lleida,A,Gramíneas,B
+02/04/2022,17:17:35,Lleida,A,Robles y encinas,B
+02/04/2022,17:17:35,Lugo,B,Ciprés,B
+02/04/2022,17:17:35,Lugo,B,Gramíneas,B
+02/04/2022,17:17:35,Lugo,B,Plátano de sombra,B
+02/04/2022,17:17:35,Lugo,B,Robles y encinas,B
+02/04/2022,17:17:35,Madrid,A,Plátano de sombra,A
+02/04/2022,17:17:35,Madrid,A,Ciprés,M
+02/04/2022,17:17:35,Madrid,A,Gramíneas,B
+02/04/2022,17:17:35,Madrid,A,Robles y encinas,B
+02/04/2022,17:17:35,Málaga,B,Ciprés,B
+02/04/2022,17:17:35,Málaga,B,Gramíneas,B
+02/04/2022,17:17:35,Málaga,B,Plátano de sombra,B
+02/04/2022,17:17:35,Málaga,B,Robles y encinas,B
+02/04/2022,17:17:35,Murcia,M,Plátano de sombra,M
+02/04/2022,17:17:35,Murcia,M,Ciprés,B
+02/04/2022,17:17:35,Murcia,M,Gramíneas,B
+02/04/2022,17:17:35,Murcia,M,Robles y encinas,B
+02/04/2022,17:17:35,Navarra,B,Ciprés,B
+02/04/2022,17:17:35,Navarra,B,Gramíneas,B
+02/04/2022,17:17:35,Navarra,B,Plátano de sombra,B
+02/04/2022,17:17:35,Navarra,B,Robles y encinas,B
+02/04/2022,17:17:35,Ourense,A,Plátano de sombra,A
+02/04/2022,17:17:35,Ourense,A,Robles y encinas,A
+02/04/2022,17:17:35,Ourense,A,Ciprés,B
+02/04/2022,17:17:35,Ourense,A,Gramíneas,B
+02/04/2022,17:17:35,Palencia,B,Ciprés,B
+02/04/2022,17:17:35,Palencia,B,Gramíneas,B
+02/04/2022,17:17:35,Palencia,B,Plátano de sombra,B
+02/04/2022,17:17:35,Palencia,B,Robles y encinas,B
+02/04/2022,17:17:35,Pontevedra,B,Ciprés,B
+02/04/2022,17:17:35,Pontevedra,B,Gramíneas,B
+02/04/2022,17:17:35,Pontevedra,B,Plátano de sombra,B
+02/04/2022,17:17:35,Pontevedra,B,Robles y encinas,B
+02/04/2022,17:17:35,Salamanca,B,Ciprés,B
+02/04/2022,17:17:35,Salamanca,B,Gramíneas,B
+02/04/2022,17:17:35,Salamanca,B,Plátano de sombra,B
+02/04/2022,17:17:35,Salamanca,B,Robles y encinas,B
+02/04/2022,17:17:35,Segovia,B,Ciprés,B
+02/04/2022,17:17:35,Segovia,B,Gramíneas,B
+02/04/2022,17:17:35,Segovia,B,Plátano de sombra,B
+02/04/2022,17:17:35,Segovia,B,Robles y encinas,B
+02/04/2022,17:17:35,Sevilla,B,Ciprés,B
+02/04/2022,17:17:35,Sevilla,B,Gramíneas,B
+02/04/2022,17:17:35,Sevilla,B,Plátano de sombra,B
+02/04/2022,17:17:35,Sevilla,B,Robles y encinas,B
+02/04/2022,17:17:35,Soria,B,Ciprés,B
+02/04/2022,17:17:35,Soria,B,Gramíneas,B
+02/04/2022,17:17:35,Soria,B,Plátano de sombra,B
+02/04/2022,17:17:35,Soria,B,Robles y encinas,B
+02/04/2022,17:17:35,Tarragona,B,Ciprés,B
+02/04/2022,17:17:35,Tarragona,B,Gramíneas,B
+02/04/2022,17:17:35,Tarragona,B,Plátano de sombra,B
+02/04/2022,17:17:35,Tarragona,B,Robles y encinas,B
+02/04/2022,17:17:35,Teruel,B,Ciprés,B
+02/04/2022,17:17:35,Teruel,B,Gramíneas,B
+02/04/2022,17:17:35,Teruel,B,Plátano de sombra,B
+02/04/2022,17:17:35,Teruel,B,Robles y encinas,B
+02/04/2022,17:17:35,Toledo,M,Plátano de sombra,M
+02/04/2022,17:17:35,Toledo,M,Ciprés,B
+02/04/2022,17:17:35,Toledo,M,Gramíneas,B
+02/04/2022,17:17:35,Toledo,M,Robles y encinas,B
+02/04/2022,17:17:35,Valencia,B,Ciprés,B
+02/04/2022,17:17:35,Valencia,B,Gramíneas,B
+02/04/2022,17:17:35,Valencia,B,Plátano de sombra,B
+02/04/2022,17:17:35,Valencia,B,Robles y encinas,B
+02/04/2022,17:17:35,Valladolid,M,Ciprés,M
+02/04/2022,17:17:35,Valladolid,M,Gramíneas,B
+02/04/2022,17:17:35,Valladolid,M,Plátano de sombra,B
+02/04/2022,17:17:35,Valladolid,M,Robles y encinas,B
+02/04/2022,17:17:35,Vizcaya,M,Ciprés,M
+02/04/2022,17:17:35,Vizcaya,M,Plátano de sombra,M
+02/04/2022,17:17:35,Vizcaya,M,Gramíneas,B
+02/04/2022,17:17:35,Vizcaya,M,Robles y encinas,B
+02/04/2022,17:17:35,Zamora,B,Ciprés,B
+02/04/2022,17:17:35,Zamora,B,Gramíneas,B
+02/04/2022,17:17:35,Zamora,B,Plátano de sombra,B
+02/04/2022,17:17:35,Zamora,B,Robles y encinas,B
+02/04/2022,17:17:35,Zaragoza,A,Plátano de sombra,A
+02/04/2022,17:17:35,Zaragoza,A,Ciprés,B
+02/04/2022,17:17:35,Zaragoza,A,Gramíneas,B
+02/04/2022,17:17:35,Zaragoza,A,Robles y encinas,B

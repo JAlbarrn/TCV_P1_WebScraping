@@ -94,4 +94,8 @@ def create_csv(filename,datos):
        hora= now.strftime('%H:%M:%S')
        datos['Dia']=dia
        datos['Hora']=hora
-       datos.to_csv(filePath, sep=',', index=False, header=True, mode = 'a', encoding = 'UTF-8',  columns=('Dia','Hora', 'Provincia', 'Calidad_polen', 'Planta','Nivel_polen'))
+       #comprueba si ya existe el csv para no añadir el encabezado
+       if not os.path.isfile(filePath):
+              datos.to_csv(filePath, sep=',', index=False, mode = 'a', encoding = 'UTF-8',  columns=('Dia','Hora', 'Provincia', 'Calidad_polen', 'Planta','Nivel_polen'))
+       else:
+              datos.to_csv(filePath, sep=',', index=False, header= False, mode = 'a', encoding = 'UTF-8',  columns=('Dia','Hora', 'Provincia', 'Calidad_polen', 'Planta','Nivel_polen'))
