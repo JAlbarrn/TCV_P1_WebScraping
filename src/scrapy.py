@@ -8,6 +8,19 @@ enlaces = []
 provincias = []
 nota_global = []
 
+def control(filename):
+       abortando = 0
+       filePath = os.path.join('csv/', filename)
+       lectura = pd.read_csv(filePath)
+       fecha = lectura.iloc[-1:]["Dia"]
+       fecha = fecha.array
+       now = datetime.now()
+       dia = now.strftime('%d/%m/%Y')
+       if dia == fecha:
+              print ('[+] El proceso ya ha sido ejecutado en el día de hoy.')
+              abortando = 1
+       return(abortando)
+
 def get_nivel_1():
        
        domain ='https://www.eltiempo.es'
@@ -87,7 +100,6 @@ def get_nivel_2():
 
 
 def create_csv(filename,datos):
-       print('[+] El proceso ha terminado satisfactoriamente.')
        filePath = os.path.join('csv/', filename)
        now = datetime.now()
        dia = now.strftime('%d/%m/%Y')
@@ -99,3 +111,5 @@ def create_csv(filename,datos):
               datos.to_csv(filePath, sep=',', index=False, mode = 'a', encoding = 'UTF-8',  columns=('Dia','Hora', 'Provincia', 'Calidad_polen', 'Planta','Nivel_polen'))
        else:
               datos.to_csv(filePath, sep=',', index=False, header= False, mode = 'a', encoding = 'UTF-8',  columns=('Dia','Hora', 'Provincia', 'Calidad_polen', 'Planta','Nivel_polen'))
+       
+       print('[+] El proceso ha terminado satisfactoriamente.')
