@@ -9,11 +9,15 @@ provincias = []
 nota_global = []
 
 def control(filename):
+       '''Función que controla si se ha realizado el scraping en
+       el mismo día.'''
        abortando = 0
        filePath = os.path.join('csv/', filename)
        lectura = pd.read_csv(filePath)
+       # última fecha en csv
        fecha = lectura.iloc[-1:]["Dia"]
        fecha = fecha.array
+       # fecha de hoy
        now = datetime.now()
        dia = now.strftime('%d/%m/%Y')
        if dia == fecha:
