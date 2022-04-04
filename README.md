@@ -3,7 +3,7 @@ Práctica 1. Tipología y Ciclo de Vida de los Datos. Caso práctico de Web Scra
 
 ## Estructura del proyecto.  
 
-* main.py: este archivo es el punto de entrada a la aplicación y desde donde se llaman al paquete principal 
+* main.py: este archivo es el punto de entrada a la aplicación y desde donde se llama al paquete principal 
 * /src/scrapy.py: se implementa toda la logica del scraping la cual esta divida en 4 funciones.
   * control(): cuya responsabilidad es controlar que solo se pueda hacer scraping una vez al día.
   * get_nivel_1(): encargada de recuperar los datos del nivel 1
