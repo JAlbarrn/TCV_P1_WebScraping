@@ -16,7 +16,6 @@ def control(filename):
        lectura = pd.read_csv(filePath)
        # última fecha en csv
        fecha = pd.to_datetime(lectura.iloc[-1:]["Dia"].to_numpy())
-       #fecha = fecha.array
        # fecha de hoy
        now = datetime.now()
        dia = now.strftime('%d/%m/%Y')

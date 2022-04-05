@@ -12,7 +12,8 @@ Práctica 1. Tipología y Ciclo de Vida de los Datos. Caso práctico de Web Scra
 
 ## Publicación del dataset.
 
-El dataset obtenido ha sido publicado en https://zenodo.org/ con DOI:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6391607.svg)](https://doi.org/10.5281/zenodo.6391607)
+El dataset obtenido ha sido publicado en https://zenodo.org/ con DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6413017.svg)](https://doi.org/10.5281/zenodo.6413017)
+
 
 ## Autores.
 
